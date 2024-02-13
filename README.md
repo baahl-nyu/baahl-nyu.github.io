@@ -1,1 +1,3 @@
-# baahl-nyu.github.io
+# BAAHL @ NYU
+
+Brooklyn Application, Architecture, and Hardware Lab
